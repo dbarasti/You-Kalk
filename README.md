@@ -21,6 +21,12 @@ make
 ```
 questi comandi genereranno l'eseguibile
 
+
+### JustRun
+
+Nella repo è già disponibile l'eseguibile che senza bisogno di altri comandi, avvierà l'applicazione
+
+
 ## Altro
 
 Per ulteriori informazioni consultare la relazione presente nella Repository
