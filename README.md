@@ -11,7 +11,7 @@ Il progetto è stato realizzato su Ubuntu 17.10, Qt 5.9.2, GCC 5.3.1 (Red Hat 5.
 
 ### Compilazione
 
-Per la compilazione è suffciente generare il Makefle tramite
+Per la compilazione è suffciente generare il Makefile tramite
 ```
 qmake
 ```
@@ -24,7 +24,7 @@ questi comandi genereranno l'eseguibile
 
 ### JustRun
 
-Nella repo è già disponibile l'eseguibile che senza bisogno di altri comandi, avvierà l'applicazione
+Nella repo è già disponibile l'eseguibile che, senza bisogno di altri comandi, avvierà l'applicazione
 
 
 ## Altro
